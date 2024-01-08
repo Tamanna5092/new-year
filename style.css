@@ -1,0 +1,110 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+/* header section style */
+.header{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    position: relative;
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    text-align: center;
+}
+.banner-style{
+    color: #FFF;
+    display: block;
+    position: absolute;
+}
+.banner-gretting{
+    color: #ffffff;
+    text-align: center;
+    font-size: 32px;
+    padding: 160px 530px 0 530px;
+}
+.banner-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    width: 632px;
+    padding: 0 340px;
+}
+.discount{
+    text-align: center;
+}
+.discount h1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+.discount h6{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.discount h3{
+    color: #000;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+     
+}
+.new-year{
+    width: 800px;
+    height: 500px;
+}
+.mid-night-party{
+    margin-top: 120px;
+}
+.mid-night-party{
+    width: 1320px;
+    height: 600px;
+    position: relative;
+    display: flex;
+}
+.mid-night{
+    position: absolute;
+    display: block;
+}
+.party{
+     position: absolute;
+     display: flex;
+     margin-left: 860px;
+     margin-top: 70px;
+}
+.mid-night h1{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    margin-top: 125px;
+    margin-left: 125px;
+}
+.mid-night p{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    margin-left: 125px;
+}
+.btn{
+    margin-left: 125px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: transparent;
+    border: 0px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(0, 0, 0);
+}
