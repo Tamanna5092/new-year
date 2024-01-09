@@ -138,6 +138,23 @@
     font-weight: 600;
     text-transform: capitalize;
 }
+.info-container button{
+    color: white;
+    display: inline-flex;
+    padding: 16px 32px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    border: 0px;
+}
+.info-container button:hover{
+    background-color: rgb(245, 78, 0);
+}
 .offer-description{
      display: flex;
      gap: 20px;
